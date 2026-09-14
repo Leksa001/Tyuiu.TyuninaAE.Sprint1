@@ -5,11 +5,11 @@ VisualStudioVersion = 17.10.35004.147
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{BF6F8EFF-1FCB-4EE7-AE2C-62943139D00E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.TyuninaAE.Sprint1.Task0.V9", "Tyuiu.TyuninaAE.Sprint1.Task0.V9\Tyuiu.TyuninaAE.Sprint1.Task0.V9.csproj", "{CED6ED2A-11CC-4D85-B2D7-3608CBBDE679}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.TyuninaAE.Sprint1.Task0.V9", "Tyuiu.TyuninaAE.Sprint1.Task0.V9\Tyuiu.TyuninaAE.Sprint1.Task0.V9.csproj", "{CED6ED2A-11CC-4D85-B2D7-3608CBBDE679}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.TyuninaAE.Sprint1.Task0.V9.Lib", "Tyuiu.TyuninaAE.Sprint1.Task0.V9.Lib\Tyuiu.TyuninaAE.Sprint1.Task0.V9.Lib.csproj", "{49021C47-0828-4C26-A53A-598D28120A07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.TyuninaAE.Sprint1.Task0.V9.Lib", "Tyuiu.TyuninaAE.Sprint1.Task0.V9.Lib\Tyuiu.TyuninaAE.Sprint1.Task0.V9.Lib.csproj", "{49021C47-0828-4C26-A53A-598D28120A07}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.TyuninaAE.Sprint1.Task0.V9.Test", "Tyuiu.TyuninaAE.Sprint1.Task0.V9.Test\Tyuiu.TyuninaAE.Sprint1.Task0.V9.Test.csproj", "{1F8632B3-69EC-42B2-ADDA-CC6B117CFFE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.TyuninaAE.Sprint1.Task0.V9.Test", "Tyuiu.TyuninaAE.Sprint1.Task0.V9.Test\Tyuiu.TyuninaAE.Sprint1.Task0.V9.Test.csproj", "{1F8632B3-69EC-42B2-ADDA-CC6B117CFFE9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
