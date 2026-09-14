@@ -1,7 +1,4 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System;
-
-using Tyuiu.TyuninaAE.Sprint1.Task0.V9.Lib;
+﻿using Tyuiu.TyuninaAE.Sprint1.Task0.V9.Lib;
 
 namespace Tyuiu.TyuninaAE.Sprint1.Task0.V9.Test
 {
