@@ -6,8 +6,8 @@ namespace Tyuiu.TyuninaAE.Sprint1.Task4.V26.Lib
     {
         public double Calculate(double x, double y)
         {
-            double res = (Math.Atan(x) + y) / Math.Exp(y + x);
-            return Math.Round(res, 3);
+            double res = (Math.Cos(x) - y) / Math.Exp(y + x);
+            return Math.Round(res, 3, MidpointRounding.AwayFromZero);
         }
     }
 }

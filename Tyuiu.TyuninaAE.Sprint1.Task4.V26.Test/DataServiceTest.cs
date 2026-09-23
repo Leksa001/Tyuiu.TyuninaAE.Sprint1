@@ -10,7 +10,7 @@ namespace Tyuiu.TyuninaAE.Sprint1.Task4.V26.Test
         {
             DataService ds = new DataService();
             double res = ds.Calculate(1, -1);
-            Assert.AreEqual(-0.215, res);
+            Assert.AreEqual(1.54, res);
         }
     }
 }
